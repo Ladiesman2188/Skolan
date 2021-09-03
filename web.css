@@ -1,0 +1,36 @@
+css
+
+
+
+.Container {
+
+    Display: grid;
+    grid-Template-Columns: 50px 50px 50px 50px;
+    grid-template-rows: 30% 100% auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    
+}
+   
+    .item-Hej { 
+
+grid-column-start: 3;
+grid-row: 2;
+grid-column-end: span 2;
+
+
+
+
+    }
+ 
+
+
+
+
+
+
+
+
+
+
+
